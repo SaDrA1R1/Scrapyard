@@ -1,0 +1,28 @@
+body {
+    background-color: green;
+    font-family: system-ui;
+    text-align: center;
+}
+
+.container {
+    background-color: black;
+    color: white; 
+    padding: 20px;
+    border-radius: 10px; 
+    font-size: 48px; 
+}
+
+a {
+    background-color: yellow;
+    color: blue;
+    font-size: 24px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    border-radius: 5px; 
+}
+
+a:hover {
+    background-color: orange;
+    color: white;
+}
